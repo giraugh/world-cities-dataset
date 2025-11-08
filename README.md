@@ -1,9 +1,10 @@
 # World Cities Geolocation Data
 
 
-> ![WARNING]
+> [!WARNING]
 > Forked to add a dataset with just the most populous cities
 
+-------
 
 
 Geolocation data for all of the cities in the world as json/csv.
